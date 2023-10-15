@@ -45,6 +45,7 @@ nav .logo {
     height: auto;
     max-height: 55.45px;
     cursor: pointer;
+    fill: currentColor;
 }
 
 div .ipomoea {
